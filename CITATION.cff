@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this experiment, please cite it as below."
+title: "Does a wider beam make CN2 better? A pre-registered beam-width study with pyrulearn"
+authors:
+  - family-names: Zimmermann
+    given-names: Emil
+date-released: 2026-11-12
+repository-code: "https://github.com/emilzmmn04/cn2-beam-width"
+license: GPL-3.0-or-later
+references:
+  - type: software
+    title: pyrulearn
+    authors:
+      - family-names: Fürnkranz
+        given-names: Johannes
+    repository-code: "https://github.com/FAW-JKU/pyrulearn"

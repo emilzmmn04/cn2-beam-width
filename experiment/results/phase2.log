@@ -1,0 +1,457 @@
+vote ...
+  fold 1/10  CN2 (w=1)       ... (cached)
+  fold 1/10  CN2 (w=5)       ... (cached)
+  fold 1/10  CN2 (w=10)      ... (cached)
+  fold 1/10  CN2 (w=20)      ... (cached)
+  fold 2/10  CN2 (w=1)       ... (cached)
+  fold 2/10  CN2 (w=5)       ... (cached)
+  fold 2/10  CN2 (w=10)      ... (cached)
+  fold 2/10  CN2 (w=20)      ... (cached)
+  fold 3/10  CN2 (w=1)       ... (cached)
+  fold 3/10  CN2 (w=5)       ... (cached)
+  fold 3/10  CN2 (w=10)      ... (cached)
+  fold 3/10  CN2 (w=20)      ... (cached)
+  fold 4/10  CN2 (w=1)       ... (cached)
+  fold 4/10  CN2 (w=5)       ... (cached)
+  fold 4/10  CN2 (w=10)      ... (cached)
+  fold 4/10  CN2 (w=20)      ... (cached)
+  fold 5/10  CN2 (w=1)       ... (cached)
+  fold 5/10  CN2 (w=5)       ... (cached)
+  fold 5/10  CN2 (w=10)      ... (cached)
+  fold 5/10  CN2 (w=20)      ... (cached)
+  fold 6/10  CN2 (w=1)       ... (cached)
+  fold 6/10  CN2 (w=5)       ... (cached)
+  fold 6/10  CN2 (w=10)      ... (cached)
+  fold 6/10  CN2 (w=20)      ... (cached)
+  fold 7/10  CN2 (w=1)       ... (cached)
+  fold 7/10  CN2 (w=5)       ... (cached)
+  fold 7/10  CN2 (w=10)      ... (cached)
+  fold 7/10  CN2 (w=20)      ... (cached)
+  fold 8/10  CN2 (w=1)       ... (cached)
+  fold 8/10  CN2 (w=5)       ... (cached)
+  fold 8/10  CN2 (w=10)      ... (cached)
+  fold 8/10  CN2 (w=20)      ... (cached)
+  fold 9/10  CN2 (w=1)       ... (cached)
+  fold 9/10  CN2 (w=5)       ... (cached)
+  fold 9/10  CN2 (w=10)      ... (cached)
+  fold 9/10  CN2 (w=20)      ... (cached)
+  fold 10/10  CN2 (w=1)       ... (cached)
+  fold 10/10  CN2 (w=5)       ... (cached)
+  fold 10/10  CN2 (w=10)      ... (cached)
+  fold 10/10  CN2 (w=20)      ... (cached)
+breast-cancer ...
+  fold 1/10  CN2 (w=1)       ... (cached)
+  fold 1/10  CN2 (w=5)       ... (cached)
+  fold 1/10  CN2 (w=10)      ... (cached)
+  fold 1/10  CN2 (w=20)      ... (cached)
+  fold 2/10  CN2 (w=1)       ... (cached)
+  fold 2/10  CN2 (w=5)       ... (cached)
+  fold 2/10  CN2 (w=10)      ... (cached)
+  fold 2/10  CN2 (w=20)      ... (cached)
+  fold 3/10  CN2 (w=1)       ... (cached)
+  fold 3/10  CN2 (w=5)       ... (cached)
+  fold 3/10  CN2 (w=10)      ... (cached)
+  fold 3/10  CN2 (w=20)      ... (cached)
+  fold 4/10  CN2 (w=1)       ... (cached)
+  fold 4/10  CN2 (w=5)       ... (cached)
+  fold 4/10  CN2 (w=10)      ... (cached)
+  fold 4/10  CN2 (w=20)      ... (cached)
+  fold 5/10  CN2 (w=1)       ... (cached)
+  fold 5/10  CN2 (w=5)       ... (cached)
+  fold 5/10  CN2 (w=10)      ... (cached)
+  fold 5/10  CN2 (w=20)      ... (cached)
+  fold 6/10  CN2 (w=1)       ... (cached)
+  fold 6/10  CN2 (w=5)       ... (cached)
+  fold 6/10  CN2 (w=10)      ... (cached)
+  fold 6/10  CN2 (w=20)      ... (cached)
+  fold 7/10  CN2 (w=1)       ... (cached)
+  fold 7/10  CN2 (w=5)       ... (cached)
+  fold 7/10  CN2 (w=10)      ... (cached)
+  fold 7/10  CN2 (w=20)      ... (cached)
+  fold 8/10  CN2 (w=1)       ... (cached)
+  fold 8/10  CN2 (w=5)       ... (cached)
+  fold 8/10  CN2 (w=10)      ... (cached)
+  fold 8/10  CN2 (w=20)      ... (cached)
+  fold 9/10  CN2 (w=1)       ... (cached)
+  fold 9/10  CN2 (w=5)       ... (cached)
+  fold 9/10  CN2 (w=10)      ... (cached)
+  fold 9/10  CN2 (w=20)      ... (cached)
+  fold 10/10  CN2 (w=1)       ... (cached)
+  fold 10/10  CN2 (w=5)       ... (cached)
+  fold 10/10  CN2 (w=10)      ... (cached)
+  fold 10/10  CN2 (w=20)      ... (cached)
+tic-tac-toe ...
+  fold 1/10  CN2 (w=1)       ... (cached)
+  fold 1/10  CN2 (w=5)       ... (cached)
+  fold 1/10  CN2 (w=10)      ... (cached)
+  fold 1/10  CN2 (w=20)      ... (cached)
+  fold 2/10  CN2 (w=1)       ... (cached)
+  fold 2/10  CN2 (w=5)       ... (cached)
+  fold 2/10  CN2 (w=10)      ... (cached)
+  fold 2/10  CN2 (w=20)      ... (cached)
+  fold 3/10  CN2 (w=1)       ... (cached)
+  fold 3/10  CN2 (w=5)       ... (cached)
+  fold 3/10  CN2 (w=10)      ... (cached)
+  fold 3/10  CN2 (w=20)      ... (cached)
+  fold 4/10  CN2 (w=1)       ... (cached)
+  fold 4/10  CN2 (w=5)       ... (cached)
+  fold 4/10  CN2 (w=10)      ... (cached)
+  fold 4/10  CN2 (w=20)      ... (cached)
+  fold 5/10  CN2 (w=1)       ... (cached)
+  fold 5/10  CN2 (w=5)       ... (cached)
+  fold 5/10  CN2 (w=10)      ... (cached)
+  fold 5/10  CN2 (w=20)      ... (cached)
+  fold 6/10  CN2 (w=1)       ... (cached)
+  fold 6/10  CN2 (w=5)       ... (cached)
+  fold 6/10  CN2 (w=10)      ... (cached)
+  fold 6/10  CN2 (w=20)      ... (cached)
+  fold 7/10  CN2 (w=1)       ... (cached)
+  fold 7/10  CN2 (w=5)       ... (cached)
+  fold 7/10  CN2 (w=10)      ... (cached)
+  fold 7/10  CN2 (w=20)      ... (cached)
+  fold 8/10  CN2 (w=1)       ... (cached)
+  fold 8/10  CN2 (w=5)       ... (cached)
+  fold 8/10  CN2 (w=10)      ... (cached)
+  fold 8/10  CN2 (w=20)      ... (cached)
+  fold 9/10  CN2 (w=1)       ... (cached)
+  fold 9/10  CN2 (w=5)       ... (cached)
+  fold 9/10  CN2 (w=10)      ... (cached)
+  fold 9/10  CN2 (w=20)      ... (cached)
+  fold 10/10  CN2 (w=1)       ... (cached)
+  fold 10/10  CN2 (w=5)       ... (cached)
+  fold 10/10  CN2 (w=10)      ... (cached)
+  fold 10/10  CN2 (w=20)      ... (cached)
+monks-problems-2 ...
+  fold 1/10  CN2 (w=1)       ...   0.12s  acc=70.49%
+  fold 1/10  CN2 (w=5)       ...   0.20s  acc=88.52%
+  fold 1/10  CN2 (w=10)      ...   0.19s  acc=95.08%
+  fold 1/10  CN2 (w=20)      ...   0.32s  acc=93.44%
+  fold 2/10  CN2 (w=1)       ...   0.19s  acc=81.67%
+  fold 2/10  CN2 (w=5)       ...   0.15s  acc=96.67%
+  fold 2/10  CN2 (w=10)      ...   0.20s  acc=96.67%
+  fold 2/10  CN2 (w=20)      ...   0.24s  acc=100.00%
+  fold 3/10  CN2 (w=1)       ...   0.10s  acc=56.67%
+  fold 3/10  CN2 (w=5)       ...   0.19s  acc=91.67%
+  fold 3/10  CN2 (w=10)      ...   0.21s  acc=95.00%
+  fold 3/10  CN2 (w=20)      ...   0.30s  acc=100.00%
+  fold 4/10  CN2 (w=1)       ...   0.19s  acc=90.00%
+  fold 4/10  CN2 (w=5)       ...   0.18s  acc=91.67%
+  fold 4/10  CN2 (w=10)      ...   0.21s  acc=91.67%
+  fold 4/10  CN2 (w=20)      ...   0.31s  acc=93.33%
+  fold 5/10  CN2 (w=1)       ...   0.11s  acc=60.00%
+  fold 5/10  CN2 (w=5)       ...   0.19s  acc=85.00%
+  fold 5/10  CN2 (w=10)      ...   0.23s  acc=90.00%
+  fold 5/10  CN2 (w=20)      ...   0.30s  acc=90.00%
+  fold 6/10  CN2 (w=1)       ...   0.08s  acc=66.67%
+  fold 6/10  CN2 (w=5)       ...   0.19s  acc=91.67%
+  fold 6/10  CN2 (w=10)      ...   0.25s  acc=90.00%
+  fold 6/10  CN2 (w=20)      ...   0.28s  acc=100.00%
+  fold 7/10  CN2 (w=1)       ...   0.20s  acc=76.67%
+  fold 7/10  CN2 (w=5)       ...   0.18s  acc=90.00%
+  fold 7/10  CN2 (w=10)      ...   0.22s  acc=90.00%
+  fold 7/10  CN2 (w=20)      ...   0.29s  acc=93.33%
+  fold 8/10  CN2 (w=1)       ...   0.16s  acc=70.00%
+  fold 8/10  CN2 (w=5)       ...   0.19s  acc=86.67%
+  fold 8/10  CN2 (w=10)      ...   0.25s  acc=90.00%
+  fold 8/10  CN2 (w=20)      ...   0.30s  acc=91.67%
+  fold 9/10  CN2 (w=1)       ...   0.14s  acc=65.00%
+  fold 9/10  CN2 (w=5)       ...   0.21s  acc=86.67%
+  fold 9/10  CN2 (w=10)      ...   0.22s  acc=86.67%
+  fold 9/10  CN2 (w=20)      ...   0.32s  acc=90.00%
+  fold 10/10  CN2 (w=1)       ...   0.08s  acc=63.33%
+  fold 10/10  CN2 (w=5)       ...   0.18s  acc=91.67%
+  fold 10/10  CN2 (w=10)      ...   0.18s  acc=96.67%
+  fold 10/10  CN2 (w=20)      ...   0.29s  acc=96.67%
+heart-c ...
+  fold 1/10  CN2 (w=1)       ...   0.07s  acc=70.97%
+  fold 1/10  CN2 (w=5)       ...   0.14s  acc=70.97%
+  fold 1/10  CN2 (w=10)      ...   0.20s  acc=61.29%
+  fold 1/10  CN2 (w=20)      ...   0.27s  acc=77.42%
+  fold 2/10  CN2 (w=1)       ...   0.05s  acc=80.65%
+  fold 2/10  CN2 (w=5)       ...   0.13s  acc=83.87%
+  fold 2/10  CN2 (w=10)      ...   0.18s  acc=83.87%
+  fold 2/10  CN2 (w=20)      ...   0.29s  acc=83.87%
+  fold 3/10  CN2 (w=1)       ...   0.07s  acc=67.74%
+  fold 3/10  CN2 (w=5)       ...   0.12s  acc=80.65%
+  fold 3/10  CN2 (w=10)      ...   0.19s  acc=70.97%
+  fold 3/10  CN2 (w=20)      ...   0.30s  acc=64.52%
+  fold 4/10  CN2 (w=1)       ...   0.07s  acc=73.33%
+  fold 4/10  CN2 (w=5)       ...   0.11s  acc=80.00%
+  fold 4/10  CN2 (w=10)      ...   0.17s  acc=76.67%
+  fold 4/10  CN2 (w=20)      ...   0.25s  acc=83.33%
+  fold 5/10  CN2 (w=1)       ...   0.05s  acc=90.00%
+  fold 5/10  CN2 (w=5)       ...   0.11s  acc=86.67%
+  fold 5/10  CN2 (w=10)      ...   0.14s  acc=80.00%
+  fold 5/10  CN2 (w=20)      ...   0.25s  acc=83.33%
+  fold 6/10  CN2 (w=1)       ...   0.05s  acc=80.00%
+  fold 6/10  CN2 (w=5)       ...   0.12s  acc=90.00%
+  fold 6/10  CN2 (w=10)      ...   0.17s  acc=93.33%
+  fold 6/10  CN2 (w=20)      ...   0.25s  acc=93.33%
+  fold 7/10  CN2 (w=1)       ...   0.05s  acc=80.00%
+  fold 7/10  CN2 (w=5)       ...   0.12s  acc=80.00%
+  fold 7/10  CN2 (w=10)      ...   0.15s  acc=70.00%
+  fold 7/10  CN2 (w=20)      ...   0.27s  acc=73.33%
+  fold 8/10  CN2 (w=1)       ...   0.06s  acc=80.00%
+  fold 8/10  CN2 (w=5)       ...   0.10s  acc=83.33%
+  fold 8/10  CN2 (w=10)      ...   0.17s  acc=80.00%
+  fold 8/10  CN2 (w=20)      ...   0.25s  acc=86.67%
+  fold 9/10  CN2 (w=1)       ...   0.05s  acc=76.67%
+  fold 9/10  CN2 (w=5)       ...   0.13s  acc=83.33%
+  fold 9/10  CN2 (w=10)      ...   0.18s  acc=80.00%
+  fold 9/10  CN2 (w=20)      ...   0.29s  acc=70.00%
+  fold 10/10  CN2 (w=1)       ...   0.07s  acc=76.67%
+  fold 10/10  CN2 (w=5)       ...   0.09s  acc=83.33%
+  fold 10/10  CN2 (w=10)      ...   0.13s  acc=83.33%
+  fold 10/10  CN2 (w=20)      ...   0.26s  acc=73.33%
+credit-approval ...
+  fold 1/10  CN2 (w=1)       ...   0.12s  acc=82.61%
+  fold 1/10  CN2 (w=5)       ...   0.34s  acc=82.61%
+  fold 1/10  CN2 (w=10)      ...   0.41s  acc=86.96%
+  fold 1/10  CN2 (w=20)      ...   0.81s  acc=81.16%
+  fold 2/10  CN2 (w=1)       ...   0.11s  acc=76.81%
+  fold 2/10  CN2 (w=5)       ...   0.34s  acc=78.26%
+  fold 2/10  CN2 (w=10)      ...   0.48s  acc=78.26%
+  fold 2/10  CN2 (w=20)      ...   0.92s  acc=76.81%
+  fold 3/10  CN2 (w=1)       ...   0.10s  acc=86.96%
+  fold 3/10  CN2 (w=5)       ...   0.21s  acc=86.96%
+  fold 3/10  CN2 (w=10)      ...   0.42s  acc=84.06%
+  fold 3/10  CN2 (w=20)      ...   0.68s  acc=84.06%
+  fold 4/10  CN2 (w=1)       ...   0.11s  acc=79.71%
+  fold 4/10  CN2 (w=5)       ...   0.32s  acc=88.41%
+  fold 4/10  CN2 (w=10)      ...   0.42s  acc=84.06%
+  fold 4/10  CN2 (w=20)      ...   0.84s  acc=82.61%
+  fold 5/10  CN2 (w=1)       ...   0.09s  acc=88.41%
+  fold 5/10  CN2 (w=5)       ...   0.16s  acc=88.41%
+  fold 5/10  CN2 (w=10)      ...   0.50s  acc=88.41%
+  fold 5/10  CN2 (w=20)      ...   0.81s  acc=84.06%
+  fold 6/10  CN2 (w=1)       ...   0.09s  acc=79.71%
+  fold 6/10  CN2 (w=5)       ...   0.34s  acc=75.36%
+  fold 6/10  CN2 (w=10)      ...   0.55s  acc=75.36%
+  fold 6/10  CN2 (w=20)      ...   0.82s  acc=81.16%
+  fold 7/10  CN2 (w=1)       ...   0.10s  acc=86.96%
+  fold 7/10  CN2 (w=5)       ...   0.31s  acc=91.30%
+  fold 7/10  CN2 (w=10)      ...   0.52s  acc=85.51%
+  fold 7/10  CN2 (w=20)      ...   0.71s  acc=85.51%
+  fold 8/10  CN2 (w=1)       ...   0.10s  acc=89.86%
+  fold 8/10  CN2 (w=5)       ...   0.30s  acc=91.30%
+  fold 8/10  CN2 (w=10)      ...   0.48s  acc=89.86%
+  fold 8/10  CN2 (w=20)      ...   0.77s  acc=88.41%
+  fold 9/10  CN2 (w=1)       ...   0.13s  acc=86.96%
+  fold 9/10  CN2 (w=5)       ...   0.31s  acc=91.30%
+  fold 9/10  CN2 (w=10)      ...   0.54s  acc=89.86%
+  fold 9/10  CN2 (w=20)      ...   1.00s  acc=89.86%
+  fold 10/10  CN2 (w=1)       ...   0.07s  acc=85.51%
+  fold 10/10  CN2 (w=5)       ...   0.33s  acc=88.41%
+  fold 10/10  CN2 (w=10)      ...   0.50s  acc=85.51%
+  fold 10/10  CN2 (w=20)      ...   0.94s  acc=86.96%
+diabetes ...
+  fold 1/10  CN2 (w=1)       ...   0.13s  acc=74.03%
+  fold 1/10  CN2 (w=5)       ...   0.36s  acc=76.62%
+  fold 1/10  CN2 (w=10)      ...   0.62s  acc=70.13%
+  fold 1/10  CN2 (w=20)      ...   1.28s  acc=72.73%
+  fold 2/10  CN2 (w=1)       ...   0.14s  acc=77.92%
+  fold 2/10  CN2 (w=5)       ...   0.69s  acc=75.32%
+  fold 2/10  CN2 (w=10)      ...   0.92s  acc=77.92%
+  fold 2/10  CN2 (w=20)      ...   1.59s  acc=72.73%
+  fold 3/10  CN2 (w=1)       ...   0.14s  acc=72.73%
+  fold 3/10  CN2 (w=5)       ...   0.46s  acc=71.43%
+  fold 3/10  CN2 (w=10)      ...   0.68s  acc=71.43%
+  fold 3/10  CN2 (w=20)      ...   1.70s  acc=74.03%
+  fold 4/10  CN2 (w=1)       ...   0.14s  acc=64.94%
+  fold 4/10  CN2 (w=5)       ...   0.32s  acc=66.23%
+  fold 4/10  CN2 (w=10)      ...   0.60s  acc=70.13%
+  fold 4/10  CN2 (w=20)      ...   1.41s  acc=74.03%
+  fold 5/10  CN2 (w=1)       ...   0.14s  acc=74.03%
+  fold 5/10  CN2 (w=5)       ...   0.46s  acc=72.73%
+  fold 5/10  CN2 (w=10)      ...   0.66s  acc=75.32%
+  fold 5/10  CN2 (w=20)      ...   1.24s  acc=74.03%
+  fold 6/10  CN2 (w=1)       ...   0.15s  acc=70.13%
+  fold 6/10  CN2 (w=5)       ...   0.36s  acc=70.13%
+  fold 6/10  CN2 (w=10)      ...   0.91s  acc=72.73%
+  fold 6/10  CN2 (w=20)      ...   1.35s  acc=74.03%
+  fold 7/10  CN2 (w=1)       ...   0.10s  acc=80.52%
+  fold 7/10  CN2 (w=5)       ...   0.43s  acc=80.52%
+  fold 7/10  CN2 (w=10)      ...   0.67s  acc=76.62%
+  fold 7/10  CN2 (w=20)      ...   1.18s  acc=81.82%
+  fold 8/10  CN2 (w=1)       ...   0.10s  acc=71.43%
+  fold 8/10  CN2 (w=5)       ...   0.40s  acc=76.62%
+  fold 8/10  CN2 (w=10)      ...   0.80s  acc=72.73%
+  fold 8/10  CN2 (w=20)      ...   1.22s  acc=75.32%
+  fold 9/10  CN2 (w=1)       ...   0.18s  acc=81.58%
+  fold 9/10  CN2 (w=5)       ...   0.37s  acc=77.63%
+  fold 9/10  CN2 (w=10)      ...   0.89s  acc=82.89%
+  fold 9/10  CN2 (w=20)      ...   1.39s  acc=78.95%
+  fold 10/10  CN2 (w=1)       ...   0.11s  acc=67.11%
+  fold 10/10  CN2 (w=5)       ...   0.30s  acc=68.42%
+  fold 10/10  CN2 (w=10)      ...   0.54s  acc=71.05%
+  fold 10/10  CN2 (w=20)      ...   1.37s  acc=64.47%
+iris ...
+  fold 1/10  CN2 (w=1)       ...   0.02s  acc=100.00%
+  fold 1/10  CN2 (w=5)       ...   0.02s  acc=93.33%
+  fold 1/10  CN2 (w=10)      ...   0.03s  acc=93.33%
+  fold 1/10  CN2 (w=20)      ...   0.03s  acc=93.33%
+  fold 2/10  CN2 (w=1)       ...   0.01s  acc=93.33%
+  fold 2/10  CN2 (w=5)       ...   0.01s  acc=93.33%
+  fold 2/10  CN2 (w=10)      ...   0.02s  acc=93.33%
+  fold 2/10  CN2 (w=20)      ...   0.03s  acc=93.33%
+  fold 3/10  CN2 (w=1)       ...   0.01s  acc=93.33%
+  fold 3/10  CN2 (w=5)       ...   0.01s  acc=93.33%
+  fold 3/10  CN2 (w=10)      ...   0.02s  acc=93.33%
+  fold 3/10  CN2 (w=20)      ...   0.03s  acc=93.33%
+  fold 4/10  CN2 (w=1)       ...   0.01s  acc=100.00%
+  fold 4/10  CN2 (w=5)       ...   0.03s  acc=100.00%
+  fold 4/10  CN2 (w=10)      ...   0.04s  acc=100.00%
+  fold 4/10  CN2 (w=20)      ...   0.07s  acc=100.00%
+  fold 5/10  CN2 (w=1)       ...   0.01s  acc=80.00%
+  fold 5/10  CN2 (w=5)       ...   0.01s  acc=80.00%
+  fold 5/10  CN2 (w=10)      ...   0.02s  acc=80.00%
+  fold 5/10  CN2 (w=20)      ...   0.03s  acc=80.00%
+  fold 6/10  CN2 (w=1)       ...   0.01s  acc=93.33%
+  fold 6/10  CN2 (w=5)       ...   0.01s  acc=93.33%
+  fold 6/10  CN2 (w=10)      ...   0.01s  acc=93.33%
+  fold 6/10  CN2 (w=20)      ...   0.03s  acc=93.33%
+  fold 7/10  CN2 (w=1)       ...   0.01s  acc=93.33%
+  fold 7/10  CN2 (w=5)       ...   0.01s  acc=93.33%
+  fold 7/10  CN2 (w=10)      ...   0.01s  acc=93.33%
+  fold 7/10  CN2 (w=20)      ...   0.02s  acc=93.33%
+  fold 8/10  CN2 (w=1)       ...   0.01s  acc=100.00%
+  fold 8/10  CN2 (w=5)       ...   0.01s  acc=100.00%
+  fold 8/10  CN2 (w=10)      ...   0.02s  acc=100.00%
+  fold 8/10  CN2 (w=20)      ...   0.03s  acc=100.00%
+  fold 9/10  CN2 (w=1)       ...   0.01s  acc=93.33%
+  fold 9/10  CN2 (w=5)       ...   0.01s  acc=93.33%
+  fold 9/10  CN2 (w=10)      ...   0.01s  acc=93.33%
+  fold 9/10  CN2 (w=20)      ...   0.02s  acc=93.33%
+  fold 10/10  CN2 (w=1)       ...   0.01s  acc=86.67%
+  fold 10/10  CN2 (w=5)       ...   0.01s  acc=86.67%
+  fold 10/10  CN2 (w=10)      ...   0.01s  acc=86.67%
+  fold 10/10  CN2 (w=20)      ...   0.02s  acc=86.67%
+lymph ...
+<venv>/site-packages/sklearn/model_selection/_split.py:812: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=10.
+  warnings.warn(
+  fold 1/10  CN2 (w=1)       ...   0.02s  acc=80.00%
+  fold 1/10  CN2 (w=5)       ...   0.04s  acc=86.67%
+  fold 1/10  CN2 (w=10)      ...   0.05s  acc=86.67%
+  fold 1/10  CN2 (w=20)      ...   0.06s  acc=86.67%
+  fold 2/10  CN2 (w=1)       ...   0.03s  acc=66.67%
+  fold 2/10  CN2 (w=5)       ...   0.03s  acc=80.00%
+  fold 2/10  CN2 (w=10)      ...   0.05s  acc=66.67%
+  fold 2/10  CN2 (w=20)      ...   0.11s  acc=80.00%
+  fold 3/10  CN2 (w=1)       ...   0.02s  acc=46.67%
+  fold 3/10  CN2 (w=5)       ...   0.03s  acc=66.67%
+  fold 3/10  CN2 (w=10)      ...   0.03s  acc=66.67%
+  fold 3/10  CN2 (w=20)      ...   0.05s  acc=53.33%
+  fold 4/10  CN2 (w=1)       ...   0.02s  acc=73.33%
+  fold 4/10  CN2 (w=5)       ...   0.03s  acc=80.00%
+  fold 4/10  CN2 (w=10)      ...   0.04s  acc=73.33%
+  fold 4/10  CN2 (w=20)      ...   0.07s  acc=73.33%
+  fold 5/10  CN2 (w=1)       ...   0.02s  acc=53.33%
+  fold 5/10  CN2 (w=5)       ...   0.03s  acc=86.67%
+  fold 5/10  CN2 (w=10)      ...   0.04s  acc=73.33%
+  fold 5/10  CN2 (w=20)      ...   0.09s  acc=86.67%
+  fold 6/10  CN2 (w=1)       ...   0.02s  acc=86.67%
+  fold 6/10  CN2 (w=5)       ...   0.03s  acc=86.67%
+  fold 6/10  CN2 (w=10)      ...   0.05s  acc=86.67%
+  fold 6/10  CN2 (w=20)      ...   0.06s  acc=100.00%
+  fold 7/10  CN2 (w=1)       ...   0.02s  acc=80.00%
+  fold 7/10  CN2 (w=5)       ...   0.03s  acc=80.00%
+  fold 7/10  CN2 (w=10)      ...   0.05s  acc=80.00%
+  fold 7/10  CN2 (w=20)      ...   0.09s  acc=80.00%
+  fold 8/10  CN2 (w=1)       ...   0.02s  acc=80.00%
+  fold 8/10  CN2 (w=5)       ...   0.03s  acc=80.00%
+  fold 8/10  CN2 (w=10)      ...   0.04s  acc=80.00%
+  fold 8/10  CN2 (w=20)      ...   0.06s  acc=80.00%
+  fold 9/10  CN2 (w=1)       ...   0.03s  acc=92.86%
+  fold 9/10  CN2 (w=5)       ...   0.03s  acc=100.00%
+  fold 9/10  CN2 (w=10)      ...   0.05s  acc=92.86%
+  fold 9/10  CN2 (w=20)      ...   0.07s  acc=100.00%
+  fold 10/10  CN2 (w=1)       ...   0.03s  acc=85.71%
+  fold 10/10  CN2 (w=5)       ...   0.04s  acc=92.86%
+  fold 10/10  CN2 (w=10)      ...   0.05s  acc=78.57%
+  fold 10/10  CN2 (w=20)      ...   0.07s  acc=92.86%
+glass ...
+<venv>/site-packages/sklearn/model_selection/_split.py:812: UserWarning: The least populated class in y has only 9 members, which is less than n_splits=10.
+  warnings.warn(
+  fold 1/10  CN2 (w=1)       ...   0.10s  acc=72.73%
+  fold 1/10  CN2 (w=5)       ...   0.19s  acc=63.64%
+  fold 1/10  CN2 (w=10)      ...   0.31s  acc=59.09%
+  fold 1/10  CN2 (w=20)      ...   0.65s  acc=72.73%
+  fold 2/10  CN2 (w=1)       ...   0.10s  acc=77.27%
+  fold 2/10  CN2 (w=5)       ...   0.17s  acc=81.82%
+  fold 2/10  CN2 (w=10)      ...   0.29s  acc=81.82%
+  fold 2/10  CN2 (w=20)      ...   0.53s  acc=77.27%
+  fold 3/10  CN2 (w=1)       ...   0.14s  acc=68.18%
+  fold 3/10  CN2 (w=5)       ...   0.30s  acc=63.64%
+  fold 3/10  CN2 (w=10)      ...   0.52s  acc=63.64%
+  fold 3/10  CN2 (w=20)      ...   0.90s  acc=68.18%
+  fold 4/10  CN2 (w=1)       ...   0.12s  acc=63.64%
+  fold 4/10  CN2 (w=5)       ...   0.19s  acc=63.64%
+  fold 4/10  CN2 (w=10)      ...   0.26s  acc=59.09%
+  fold 4/10  CN2 (w=20)      ...   0.55s  acc=63.64%
+  fold 5/10  CN2 (w=1)       ...   0.11s  acc=71.43%
+  fold 5/10  CN2 (w=5)       ...   0.19s  acc=80.95%
+  fold 5/10  CN2 (w=10)      ...   0.32s  acc=80.95%
+  fold 5/10  CN2 (w=20)      ...   0.54s  acc=80.95%
+  fold 6/10  CN2 (w=1)       ...   0.10s  acc=66.67%
+  fold 6/10  CN2 (w=5)       ...   0.20s  acc=71.43%
+  fold 6/10  CN2 (w=10)      ...   0.32s  acc=71.43%
+  fold 6/10  CN2 (w=20)      ...   0.61s  acc=71.43%
+  fold 7/10  CN2 (w=1)       ...   0.08s  acc=71.43%
+  fold 7/10  CN2 (w=5)       ...   0.16s  acc=66.67%
+  fold 7/10  CN2 (w=10)      ...   0.24s  acc=71.43%
+  fold 7/10  CN2 (w=20)      ...   0.44s  acc=71.43%
+  fold 8/10  CN2 (w=1)       ...   0.10s  acc=66.67%
+  fold 8/10  CN2 (w=5)       ...   0.20s  acc=66.67%
+  fold 8/10  CN2 (w=10)      ...   0.29s  acc=80.95%
+  fold 8/10  CN2 (w=20)      ...   0.38s  acc=71.43%
+  fold 9/10  CN2 (w=1)       ...   0.09s  acc=76.19%
+  fold 9/10  CN2 (w=5)       ...   0.18s  acc=66.67%
+  fold 9/10  CN2 (w=10)      ...   0.26s  acc=71.43%
+  fold 9/10  CN2 (w=20)      ...   0.49s  acc=76.19%
+  fold 10/10  CN2 (w=1)       ...   0.09s  acc=85.71%
+  fold 10/10  CN2 (w=5)       ...   0.19s  acc=85.71%
+  fold 10/10  CN2 (w=10)      ...   0.35s  acc=90.48%
+  fold 10/10  CN2 (w=20)      ...   0.60s  acc=76.19%
+car ...
+  fold 1/10  CN2 (w=1)       ...   0.18s  acc=91.91%
+  fold 1/10  CN2 (w=5)       ...   0.23s  acc=91.91%
+  fold 1/10  CN2 (w=10)      ...   0.30s  acc=93.64%
+  fold 1/10  CN2 (w=20)      ...   0.46s  acc=94.80%
+  fold 2/10  CN2 (w=1)       ...   0.16s  acc=94.22%
+  fold 2/10  CN2 (w=5)       ...   0.21s  acc=96.53%
+  fold 2/10  CN2 (w=10)      ...   0.30s  acc=96.53%
+  fold 2/10  CN2 (w=20)      ...   0.46s  acc=95.38%
+  fold 3/10  CN2 (w=1)       ...   0.18s  acc=93.06%
+  fold 3/10  CN2 (w=5)       ...   0.22s  acc=95.38%
+  fold 3/10  CN2 (w=10)      ...   0.29s  acc=96.53%
+  fold 3/10  CN2 (w=20)      ...   0.51s  acc=95.38%
+  fold 4/10  CN2 (w=1)       ...   0.15s  acc=95.38%
+  fold 4/10  CN2 (w=5)       ...   0.23s  acc=93.64%
+  fold 4/10  CN2 (w=10)      ...   0.30s  acc=95.95%
+  fold 4/10  CN2 (w=20)      ...   0.47s  acc=96.53%
+  fold 5/10  CN2 (w=1)       ...   0.15s  acc=96.53%
+  fold 5/10  CN2 (w=5)       ...   0.21s  acc=95.38%
+  fold 5/10  CN2 (w=10)      ...   0.29s  acc=97.11%
+  fold 5/10  CN2 (w=20)      ...   0.46s  acc=97.69%
+  fold 6/10  CN2 (w=1)       ...   0.16s  acc=93.06%
+  fold 6/10  CN2 (w=5)       ...   0.22s  acc=96.53%
+  fold 6/10  CN2 (w=10)      ...   0.29s  acc=96.53%
+  fold 6/10  CN2 (w=20)      ...   0.45s  acc=94.80%
+  fold 7/10  CN2 (w=1)       ...   0.16s  acc=96.53%
+  fold 7/10  CN2 (w=5)       ...   0.22s  acc=95.38%
+  fold 7/10  CN2 (w=10)      ...   0.28s  acc=95.38%
+  fold 7/10  CN2 (w=20)      ...   0.46s  acc=94.80%
+  fold 8/10  CN2 (w=1)       ...   0.16s  acc=94.22%
+  fold 8/10  CN2 (w=5)       ...   0.22s  acc=95.38%
+  fold 8/10  CN2 (w=10)      ...   0.30s  acc=95.38%
+  fold 8/10  CN2 (w=20)      ...   0.44s  acc=95.38%
+  fold 9/10  CN2 (w=1)       ...   0.17s  acc=93.02%
+  fold 9/10  CN2 (w=5)       ...   0.21s  acc=93.60%
+  fold 9/10  CN2 (w=10)      ...   0.28s  acc=94.19%
+  fold 9/10  CN2 (w=20)      ...   0.49s  acc=94.19%
+  fold 10/10  CN2 (w=1)       ...   0.17s  acc=94.77%
+  fold 10/10  CN2 (w=5)       ...   0.21s  acc=95.35%
+  fold 10/10  CN2 (w=10)      ...   0.31s  acc=94.77%
+  fold 10/10  CN2 (w=20)      ...   0.46s  acc=93.60%
+
+wrote ./experiment/results/phase2/

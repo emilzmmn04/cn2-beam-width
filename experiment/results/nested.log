@@ -1,0 +1,421 @@
+vote ...
+  fold 1/10  CN2 (tuned)     ...   0.90s  acc=88.64%
+  fold 2/10  CN2 (tuned)     ...   0.68s  acc=90.91%
+  fold 3/10  CN2 (tuned)     ...   0.96s  acc=95.45%
+  fold 4/10  CN2 (tuned)     ...   1.02s  acc=95.45%
+  fold 5/10  CN2 (tuned)     ...   1.01s  acc=95.45%
+  fold 6/10  CN2 (tuned)     ...   0.98s  acc=97.67%
+  fold 7/10  CN2 (tuned)     ...   0.89s  acc=95.35%
+  fold 8/10  CN2 (tuned)     ...   1.01s  acc=93.02%
+  fold 9/10  CN2 (tuned)     ...   0.79s  acc=90.70%
+  fold 10/10  CN2 (tuned)     ...   1.08s  acc=95.35%
+breast-cancer ...
+  fold 1/10  CN2 (tuned)     ...   2.79s  acc=68.97%
+  fold 2/10  CN2 (tuned)     ...   2.67s  acc=75.86%
+  fold 3/10  CN2 (tuned)     ...   2.72s  acc=72.41%
+  fold 4/10  CN2 (tuned)     ...   2.73s  acc=58.62%
+  fold 5/10  CN2 (tuned)     ...   2.76s  acc=58.62%
+  fold 6/10  CN2 (tuned)     ...   2.35s  acc=79.31%
+  fold 7/10  CN2 (tuned)     ...   2.92s  acc=57.14%
+  fold 8/10  CN2 (tuned)     ...   2.82s  acc=75.00%
+  fold 9/10  CN2 (tuned)     ...   2.69s  acc=75.00%
+  fold 10/10  CN2 (tuned)     ...   2.42s  acc=64.29%
+tic-tac-toe ...
+  fold 1/10  CN2 (tuned)     ...   1.39s  acc=100.00%
+  fold 2/10  CN2 (tuned)     ...   1.51s  acc=96.88%
+  fold 3/10  CN2 (tuned)     ...   1.37s  acc=96.88%
+  fold 4/10  CN2 (tuned)     ...   1.28s  acc=95.83%
+  fold 5/10  CN2 (tuned)     ...   1.40s  acc=98.96%
+  fold 6/10  CN2 (tuned)     ...   1.33s  acc=98.96%
+  fold 7/10  CN2 (tuned)     ...   1.51s  acc=100.00%
+  fold 8/10  CN2 (tuned)     ...   1.40s  acc=97.92%
+  fold 9/10  CN2 (tuned)     ...   1.38s  acc=98.95%
+  fold 10/10  CN2 (tuned)     ...   1.28s  acc=98.95%
+monks-problems-2 ...
+  fold 1/10  CN2 (tuned)     ...   4.83s  acc=93.44%
+  fold 2/10  CN2 (tuned)     ...   4.81s  acc=100.00%
+  fold 3/10  CN2 (tuned)     ...   4.64s  acc=100.00%
+  fold 4/10  CN2 (tuned)     ...   5.31s  acc=93.33%
+  fold 5/10  CN2 (tuned)     ...   5.52s  acc=90.00%
+  fold 6/10  CN2 (tuned)     ...   4.94s  acc=100.00%
+  fold 7/10  CN2 (tuned)     ...   5.14s  acc=93.33%
+  fold 8/10  CN2 (tuned)     ...   5.27s  acc=91.67%
+  fold 9/10  CN2 (tuned)     ...   5.36s  acc=90.00%
+  fold 10/10  CN2 (tuned)     ...   5.16s  acc=96.67%
+heart-c ...
+  fold 1/10  CN2 (tuned)     ...   2.63s  acc=61.29%
+  fold 2/10  CN2 (tuned)     ...   2.14s  acc=80.65%
+  fold 3/10  CN2 (tuned)     ...   2.69s  acc=64.52%
+  fold 4/10  CN2 (tuned)     ...   2.53s  acc=76.67%
+  fold 5/10  CN2 (tuned)     ...   2.49s  acc=80.00%
+  fold 6/10  CN2 (tuned)     ...   2.48s  acc=90.00%
+  fold 7/10  CN2 (tuned)     ...   2.34s  acc=70.00%
+  fold 8/10  CN2 (tuned)     ...   2.41s  acc=80.00%
+  fold 9/10  CN2 (tuned)     ...   2.56s  acc=80.00%
+  fold 10/10  CN2 (tuned)     ...   2.29s  acc=73.33%
+credit-approval ...
+  fold 1/10  CN2 (tuned)     ...   6.52s  acc=82.61%
+  fold 2/10  CN2 (tuned)     ...   7.31s  acc=78.26%
+  fold 3/10  CN2 (tuned)     ...   5.63s  acc=86.96%
+  fold 4/10  CN2 (tuned)     ...   5.79s  acc=79.71%
+  fold 5/10  CN2 (tuned)     ...   6.81s  acc=88.41%
+  fold 6/10  CN2 (tuned)     ...   6.26s  acc=79.71%
+  fold 7/10  CN2 (tuned)     ...   7.95s  acc=86.96%
+  fold 8/10  CN2 (tuned)     ...   6.45s  acc=89.86%
+  fold 9/10  CN2 (tuned)     ...   7.39s  acc=91.30%
+  fold 10/10  CN2 (tuned)     ...   6.49s  acc=85.51%
+diabetes ...
+  fold 1/10  CN2 (tuned)     ...  10.02s  acc=72.73%
+  fold 2/10  CN2 (tuned)     ...  13.82s  acc=72.73%
+  fold 3/10  CN2 (tuned)     ...  11.87s  acc=74.03%
+  fold 4/10  CN2 (tuned)     ...   9.27s  acc=70.13%
+  fold 5/10  CN2 (tuned)     ...   9.48s  acc=72.73%
+  fold 6/10  CN2 (tuned)     ...  10.84s  acc=70.13%
+  fold 7/10  CN2 (tuned)     ...  11.27s  acc=76.62%
+  fold 8/10  CN2 (tuned)     ...  10.64s  acc=75.32%
+  fold 9/10  CN2 (tuned)     ...  12.60s  acc=82.89%
+  fold 10/10  CN2 (tuned)     ...  13.33s  acc=64.47%
+iris ...
+  fold 1/10  CN2 (tuned)     ...   0.32s  acc=93.33%
+  fold 2/10  CN2 (tuned)     ...   0.26s  acc=93.33%
+  fold 3/10  CN2 (tuned)     ...   0.31s  acc=93.33%
+  fold 4/10  CN2 (tuned)     ...   0.62s  acc=100.00%
+  fold 5/10  CN2 (tuned)     ...   0.25s  acc=80.00%
+  fold 6/10  CN2 (tuned)     ...   0.26s  acc=93.33%
+  fold 7/10  CN2 (tuned)     ...   0.21s  acc=93.33%
+  fold 8/10  CN2 (tuned)     ...   0.30s  acc=100.00%
+  fold 9/10  CN2 (tuned)     ...   0.22s  acc=93.33%
+  fold 10/10  CN2 (tuned)     ...   0.20s  acc=86.67%
+lymph ...
+  fold 1/10  CN2 (tuned)     ...   0.79s  acc=86.67%
+  fold 2/10  CN2 (tuned)     ...   0.82s  acc=80.00%
+  fold 3/10  CN2 (tuned)     ...   0.57s  acc=53.33%
+  fold 4/10  CN2 (tuned)     ...   0.78s  acc=80.00%
+  fold 5/10  CN2 (tuned)     ...   0.76s  acc=53.33%
+  fold 6/10  CN2 (tuned)     ...   0.74s  acc=86.67%
+  fold 7/10  CN2 (tuned)     ...   0.77s  acc=80.00%
+  fold 8/10  CN2 (tuned)     ...   0.74s  acc=80.00%
+  fold 9/10  CN2 (tuned)     ...   0.74s  acc=100.00%
+  fold 10/10  CN2 (tuned)     ...   0.77s  acc=78.57%
+glass ...
+  fold 1/10  CN2 (tuned)     ...   4.81s  acc=72.73%
+  fold 2/10  CN2 (tuned)     ...   4.24s  acc=81.82%
+  fold 3/10  CN2 (tuned)     ...   6.55s  acc=68.18%
+  fold 4/10  CN2 (tuned)     ...   4.21s  acc=59.09%
+  fold 5/10  CN2 (tuned)     ...   5.12s  acc=80.95%
+  fold 6/10  CN2 (tuned)     ...   4.99s  acc=71.43%
+  fold 7/10  CN2 (tuned)     ...   3.40s  acc=71.43%
+  fold 8/10  CN2 (tuned)     ...   4.15s  acc=66.67%
+  fold 9/10  CN2 (tuned)     ...   3.91s  acc=76.19%
+  fold 10/10  CN2 (tuned)     ...   4.51s  acc=76.19%
+car ...
+  fold 1/10  CN2 (tuned)     ...   5.00s  acc=91.91%
+  fold 2/10  CN2 (tuned)     ...   5.11s  acc=95.38%
+  fold 3/10  CN2 (tuned)     ...   5.29s  acc=95.38%
+  fold 4/10  CN2 (tuned)     ...   5.23s  acc=96.53%
+  fold 5/10  CN2 (tuned)     ...   5.11s  acc=97.11%
+  fold 6/10  CN2 (tuned)     ...   5.50s  acc=94.80%
+  fold 7/10  CN2 (tuned)     ...   5.51s  acc=94.80%
+  fold 8/10  CN2 (tuned)     ...   5.28s  acc=95.38%
+  fold 9/10  CN2 (tuned)     ...   4.99s  acc=94.19%
+  fold 10/10  CN2 (tuned)     ...   5.18s  acc=93.60%
+vote ...
+  fold 1/10  CN2 (tuned)     ...   1.02s  acc=90.91%
+  fold 2/10  CN2 (tuned)     ...   0.81s  acc=93.18%
+  fold 3/10  CN2 (tuned)     ...   0.91s  acc=95.45%
+  fold 4/10  CN2 (tuned)     ...   0.97s  acc=93.18%
+  fold 5/10  CN2 (tuned)     ...   0.89s  acc=95.45%
+  fold 6/10  CN2 (tuned)     ...   0.92s  acc=90.70%
+  fold 7/10  CN2 (tuned)     ...   0.95s  acc=100.00%
+  fold 8/10  CN2 (tuned)     ...   0.92s  acc=95.35%
+  fold 9/10  CN2 (tuned)     ...   0.91s  acc=95.35%
+  fold 10/10  CN2 (tuned)     ...   1.04s  acc=93.02%
+breast-cancer ...
+  fold 1/10  CN2 (tuned)     ...   2.90s  acc=65.52%
+  fold 2/10  CN2 (tuned)     ...   3.02s  acc=82.76%
+  fold 3/10  CN2 (tuned)     ...   2.69s  acc=72.41%
+  fold 4/10  CN2 (tuned)     ...   2.59s  acc=72.41%
+  fold 5/10  CN2 (tuned)     ...   3.11s  acc=68.97%
+  fold 6/10  CN2 (tuned)     ...   2.25s  acc=68.97%
+  fold 7/10  CN2 (tuned)     ...   2.63s  acc=78.57%
+  fold 8/10  CN2 (tuned)     ...   2.90s  acc=71.43%
+  fold 9/10  CN2 (tuned)     ...   2.53s  acc=85.71%
+  fold 10/10  CN2 (tuned)     ...   2.62s  acc=75.00%
+tic-tac-toe ...
+  fold 1/10  CN2 (tuned)     ...   1.28s  acc=97.92%
+  fold 2/10  CN2 (tuned)     ...   1.29s  acc=98.96%
+  fold 3/10  CN2 (tuned)     ...   1.33s  acc=98.96%
+  fold 4/10  CN2 (tuned)     ...   1.33s  acc=97.92%
+  fold 5/10  CN2 (tuned)     ...   1.28s  acc=97.92%
+  fold 6/10  CN2 (tuned)     ...   1.34s  acc=98.96%
+  fold 7/10  CN2 (tuned)     ...   1.32s  acc=97.92%
+  fold 8/10  CN2 (tuned)     ...   1.26s  acc=95.83%
+  fold 9/10  CN2 (tuned)     ...   1.36s  acc=98.95%
+  fold 10/10  CN2 (tuned)     ...   1.40s  acc=98.95%
+monks-problems-2 ...
+  fold 1/10  CN2 (tuned)     ...   5.01s  acc=90.16%
+  fold 2/10  CN2 (tuned)     ...   5.06s  acc=98.33%
+  fold 3/10  CN2 (tuned)     ...   5.30s  acc=96.67%
+  fold 4/10  CN2 (tuned)     ...   5.13s  acc=90.00%
+  fold 5/10  CN2 (tuned)     ...   4.93s  acc=98.33%
+  fold 6/10  CN2 (tuned)     ...   5.15s  acc=96.67%
+  fold 7/10  CN2 (tuned)     ...   5.10s  acc=96.67%
+  fold 8/10  CN2 (tuned)     ...   5.23s  acc=96.67%
+  fold 9/10  CN2 (tuned)     ...   4.80s  acc=95.00%
+  fold 10/10  CN2 (tuned)     ...   5.07s  acc=98.33%
+heart-c ...
+  fold 1/10  CN2 (tuned)     ...   2.41s  acc=87.10%
+  fold 2/10  CN2 (tuned)     ...   2.36s  acc=70.97%
+  fold 3/10  CN2 (tuned)     ...   2.16s  acc=77.42%
+  fold 4/10  CN2 (tuned)     ...   2.54s  acc=83.33%
+  fold 5/10  CN2 (tuned)     ...   2.78s  acc=90.00%
+  fold 6/10  CN2 (tuned)     ...   2.26s  acc=80.00%
+  fold 7/10  CN2 (tuned)     ...   2.34s  acc=86.67%
+  fold 8/10  CN2 (tuned)     ...   2.10s  acc=73.33%
+  fold 9/10  CN2 (tuned)     ...   2.32s  acc=76.67%
+  fold 10/10  CN2 (tuned)     ...   3.52s  acc=76.67%
+credit-approval ...
+  fold 1/10  CN2 (tuned)     ...   6.50s  acc=86.96%
+  fold 2/10  CN2 (tuned)     ...   6.54s  acc=85.51%
+  fold 3/10  CN2 (tuned)     ...   5.82s  acc=92.75%
+  fold 4/10  CN2 (tuned)     ...   6.09s  acc=81.16%
+  fold 5/10  CN2 (tuned)     ...   7.75s  acc=82.61%
+  fold 6/10  CN2 (tuned)     ...   5.72s  acc=91.30%
+  fold 7/10  CN2 (tuned)     ...   7.43s  acc=89.86%
+  fold 8/10  CN2 (tuned)     ...   5.50s  acc=85.51%
+  fold 9/10  CN2 (tuned)     ...   5.94s  acc=81.16%
+  fold 10/10  CN2 (tuned)     ...   5.71s  acc=82.61%
+diabetes ...
+  fold 1/10  CN2 (tuned)     ...  11.34s  acc=74.03%
+  fold 2/10  CN2 (tuned)     ...  12.79s  acc=74.03%
+  fold 3/10  CN2 (tuned)     ...  10.24s  acc=72.73%
+  fold 4/10  CN2 (tuned)     ...   9.61s  acc=79.22%
+  fold 5/10  CN2 (tuned)     ...  10.35s  acc=77.92%
+  fold 6/10  CN2 (tuned)     ...  10.52s  acc=81.82%
+  fold 7/10  CN2 (tuned)     ...  12.46s  acc=76.62%
+  fold 8/10  CN2 (tuned)     ...  10.11s  acc=75.32%
+  fold 9/10  CN2 (tuned)     ...  13.48s  acc=82.89%
+  fold 10/10  CN2 (tuned)     ...  10.16s  acc=72.37%
+iris ...
+  fold 1/10  CN2 (tuned)     ...   0.29s  acc=100.00%
+  fold 2/10  CN2 (tuned)     ...   0.25s  acc=86.67%
+  fold 3/10  CN2 (tuned)     ...   0.64s  acc=100.00%
+  fold 4/10  CN2 (tuned)     ...   0.31s  acc=93.33%
+  fold 5/10  CN2 (tuned)     ...   0.22s  acc=93.33%
+  fold 6/10  CN2 (tuned)     ...   0.20s  acc=93.33%
+  fold 7/10  CN2 (tuned)     ...   0.64s  acc=100.00%
+  fold 8/10  CN2 (tuned)     ...   0.29s  acc=100.00%
+  fold 9/10  CN2 (tuned)     ...   0.20s  acc=86.67%
+  fold 10/10  CN2 (tuned)     ...   0.27s  acc=93.33%
+lymph ...
+  fold 1/10  CN2 (tuned)     ...   0.73s  acc=73.33%
+  fold 2/10  CN2 (tuned)     ...   0.73s  acc=86.67%
+  fold 3/10  CN2 (tuned)     ...   0.85s  acc=73.33%
+  fold 4/10  CN2 (tuned)     ...   0.76s  acc=86.67%
+  fold 5/10  CN2 (tuned)     ...   0.78s  acc=93.33%
+  fold 6/10  CN2 (tuned)     ...   0.70s  acc=86.67%
+  fold 7/10  CN2 (tuned)     ...   0.71s  acc=73.33%
+  fold 8/10  CN2 (tuned)     ...   0.77s  acc=80.00%
+  fold 9/10  CN2 (tuned)     ...   0.76s  acc=78.57%
+  fold 10/10  CN2 (tuned)     ...   0.80s  acc=92.86%
+glass ...
+  fold 1/10  CN2 (tuned)     ...   4.69s  acc=63.64%
+  fold 2/10  CN2 (tuned)     ...   4.58s  acc=68.18%
+  fold 3/10  CN2 (tuned)     ...   4.53s  acc=77.27%
+  fold 4/10  CN2 (tuned)     ...   4.59s  acc=63.64%
+  fold 5/10  CN2 (tuned)     ...   3.99s  acc=66.67%
+  fold 6/10  CN2 (tuned)     ...   4.13s  acc=76.19%
+  fold 7/10  CN2 (tuned)     ...   4.28s  acc=57.14%
+  fold 8/10  CN2 (tuned)     ...   4.18s  acc=61.90%
+  fold 9/10  CN2 (tuned)     ...   5.33s  acc=85.71%
+  fold 10/10  CN2 (tuned)     ...   5.04s  acc=66.67%
+car ...
+  fold 1/10  CN2 (tuned)     ...   5.23s  acc=94.80%
+  fold 2/10  CN2 (tuned)     ...   5.09s  acc=96.53%
+  fold 3/10  CN2 (tuned)     ...   5.30s  acc=93.06%
+  fold 4/10  CN2 (tuned)     ...   5.24s  acc=95.38%
+  fold 5/10  CN2 (tuned)     ...   5.14s  acc=96.53%
+  fold 6/10  CN2 (tuned)     ...   5.25s  acc=91.33%
+  fold 7/10  CN2 (tuned)     ...   5.59s  acc=98.84%
+  fold 8/10  CN2 (tuned)     ...   5.78s  acc=96.53%
+  fold 9/10  CN2 (tuned)     ...   5.49s  acc=96.51%
+  fold 10/10  CN2 (tuned)     ...   4.89s  acc=95.93%
+vote ...
+  fold 1/10  CN2 (tuned)     ...   1.10s  acc=93.18%
+  fold 2/10  CN2 (tuned)     ...   1.09s  acc=93.18%
+  fold 3/10  CN2 (tuned)     ...   0.98s  acc=93.18%
+  fold 4/10  CN2 (tuned)     ...   0.79s  acc=93.18%
+  fold 5/10  CN2 (tuned)     ...   0.94s  acc=100.00%
+  fold 6/10  CN2 (tuned)     ...   0.89s  acc=95.35%
+  fold 7/10  CN2 (tuned)     ...   0.93s  acc=95.35%
+  fold 8/10  CN2 (tuned)     ...   0.94s  acc=90.70%
+  fold 9/10  CN2 (tuned)     ...   1.08s  acc=90.70%
+  fold 10/10  CN2 (tuned)     ...   0.82s  acc=93.02%
+breast-cancer ...
+  fold 1/10  CN2 (tuned)     ...   2.61s  acc=72.41%
+  fold 2/10  CN2 (tuned)     ...   2.61s  acc=72.41%
+  fold 3/10  CN2 (tuned)     ...   2.62s  acc=68.97%
+  fold 4/10  CN2 (tuned)     ...   2.64s  acc=65.52%
+  fold 5/10  CN2 (tuned)     ...   2.92s  acc=72.41%
+  fold 6/10  CN2 (tuned)     ...   2.60s  acc=68.97%
+  fold 7/10  CN2 (tuned)     ...   2.80s  acc=67.86%
+  fold 8/10  CN2 (tuned)     ...   2.69s  acc=78.57%
+  fold 9/10  CN2 (tuned)     ...   2.97s  acc=67.86%
+  fold 10/10  CN2 (tuned)     ...   2.49s  acc=67.86%
+tic-tac-toe ...
+  fold 1/10  CN2 (tuned)     ...   1.29s  acc=96.88%
+  fold 2/10  CN2 (tuned)     ...   1.17s  acc=95.83%
+  fold 3/10  CN2 (tuned)     ...   1.26s  acc=98.96%
+  fold 4/10  CN2 (tuned)     ...   1.32s  acc=98.96%
+  fold 5/10  CN2 (tuned)     ...   1.26s  acc=98.96%
+  fold 6/10  CN2 (tuned)     ...   1.35s  acc=98.96%
+  fold 7/10  CN2 (tuned)     ...   1.36s  acc=97.92%
+  fold 8/10  CN2 (tuned)     ...   1.39s  acc=98.96%
+  fold 9/10  CN2 (tuned)     ...   1.33s  acc=100.00%
+  fold 10/10  CN2 (tuned)     ...   1.26s  acc=98.95%
+monks-problems-2 ...
+  fold 1/10  CN2 (tuned)     ...   5.09s  acc=95.08%
+  fold 2/10  CN2 (tuned)     ...   5.15s  acc=96.67%
+  fold 3/10  CN2 (tuned)     ...   4.94s  acc=100.00%
+  fold 4/10  CN2 (tuned)     ...   5.36s  acc=98.33%
+  fold 5/10  CN2 (tuned)     ...   5.21s  acc=95.00%
+  fold 6/10  CN2 (tuned)     ...   5.60s  acc=100.00%
+  fold 7/10  CN2 (tuned)     ...   4.81s  acc=98.33%
+  fold 8/10  CN2 (tuned)     ...   4.85s  acc=100.00%
+  fold 9/10  CN2 (tuned)     ...   5.34s  acc=93.33%
+  fold 10/10  CN2 (tuned)     ...   5.28s  acc=93.33%
+heart-c ...
+  fold 1/10  CN2 (tuned)     ...   2.29s  acc=70.97%
+  fold 2/10  CN2 (tuned)     ...   2.51s  acc=54.84%
+  fold 3/10  CN2 (tuned)     ...   2.65s  acc=70.97%
+  fold 4/10  CN2 (tuned)     ...   2.56s  acc=80.00%
+  fold 5/10  CN2 (tuned)     ...   2.59s  acc=80.00%
+  fold 6/10  CN2 (tuned)     ...   2.15s  acc=73.33%
+  fold 7/10  CN2 (tuned)     ...   2.41s  acc=93.33%
+  fold 8/10  CN2 (tuned)     ...   2.36s  acc=80.00%
+  fold 9/10  CN2 (tuned)     ...   2.19s  acc=90.00%
+  fold 10/10  CN2 (tuned)     ...   3.04s  acc=86.67%
+credit-approval ...
+  fold 1/10  CN2 (tuned)     ...   6.40s  acc=86.96%
+  fold 2/10  CN2 (tuned)     ...   4.22s  acc=88.41%
+  fold 3/10  CN2 (tuned)     ...   6.28s  acc=78.26%
+  fold 4/10  CN2 (tuned)     ...   6.10s  acc=91.30%
+  fold 5/10  CN2 (tuned)     ...   6.68s  acc=85.51%
+  fold 6/10  CN2 (tuned)     ...   6.23s  acc=88.41%
+  fold 7/10  CN2 (tuned)     ...   5.90s  acc=85.51%
+  fold 8/10  CN2 (tuned)     ...   7.05s  acc=84.06%
+  fold 9/10  CN2 (tuned)     ...   5.60s  acc=76.81%
+  fold 10/10  CN2 (tuned)     ...   5.84s  acc=82.61%
+diabetes ...
+  fold 1/10  CN2 (tuned)     ...  10.92s  acc=68.83%
+  fold 2/10  CN2 (tuned)     ...  11.34s  acc=74.03%
+  fold 3/10  CN2 (tuned)     ...  10.06s  acc=83.12%
+  fold 4/10  CN2 (tuned)     ...  10.05s  acc=75.32%
+  fold 5/10  CN2 (tuned)     ...  13.45s  acc=79.22%
+  fold 6/10  CN2 (tuned)     ...  10.34s  acc=71.43%
+  fold 7/10  CN2 (tuned)     ...  11.59s  acc=77.92%
+  fold 8/10  CN2 (tuned)     ...  10.19s  acc=72.73%
+  fold 9/10  CN2 (tuned)     ...  12.05s  acc=72.37%
+  fold 10/10  CN2 (tuned)     ...  13.01s  acc=76.32%
+iris ...
+  fold 1/10  CN2 (tuned)     ...   0.24s  acc=86.67%
+  fold 2/10  CN2 (tuned)     ...   0.24s  acc=86.67%
+  fold 3/10  CN2 (tuned)     ...   0.32s  acc=93.33%
+  fold 4/10  CN2 (tuned)     ...   0.26s  acc=93.33%
+  fold 5/10  CN2 (tuned)     ...   0.31s  acc=100.00%
+  fold 6/10  CN2 (tuned)     ...   0.30s  acc=100.00%
+  fold 7/10  CN2 (tuned)     ...   0.26s  acc=86.67%
+  fold 8/10  CN2 (tuned)     ...   0.24s  acc=93.33%
+  fold 9/10  CN2 (tuned)     ...   0.47s  acc=86.67%
+  fold 10/10  CN2 (tuned)     ...   0.29s  acc=100.00%
+lymph ...
+  fold 1/10  CN2 (tuned)     ...   0.69s  acc=73.33%
+  fold 2/10  CN2 (tuned)     ...   0.66s  acc=73.33%
+  fold 3/10  CN2 (tuned)     ...   0.84s  acc=60.00%
+  fold 4/10  CN2 (tuned)     ...   0.85s  acc=86.67%
+  fold 5/10  CN2 (tuned)     ...   0.67s  acc=80.00%
+  fold 6/10  CN2 (tuned)     ...   0.87s  acc=86.67%
+  fold 7/10  CN2 (tuned)     ...   0.69s  acc=86.67%
+  fold 8/10  CN2 (tuned)     ...   0.79s  acc=80.00%
+  fold 9/10  CN2 (tuned)     ...   0.83s  acc=92.86%
+  fold 10/10  CN2 (tuned)     ...   0.87s  acc=92.86%
+glass ...
+  fold 1/10  CN2 (tuned)     ...   3.46s  acc=59.09%
+  fold 2/10  CN2 (tuned)     ...   4.66s  acc=68.18%
+  fold 3/10  CN2 (tuned)     ...   3.36s  acc=77.27%
+  fold 4/10  CN2 (tuned)     ...   4.40s  acc=68.18%
+  fold 5/10  CN2 (tuned)     ...   3.85s  acc=61.90%
+  fold 6/10  CN2 (tuned)     ...   4.45s  acc=80.95%
+  fold 7/10  CN2 (tuned)     ...   4.10s  acc=71.43%
+  fold 8/10  CN2 (tuned)     ...   4.71s  acc=80.95%
+  fold 9/10  CN2 (tuned)     ...   5.86s  acc=66.67%
+  fold 10/10  CN2 (tuned)     ...   4.05s  acc=76.19%
+car ...
+  fold 1/10  CN2 (tuned)     ...   5.34s  acc=93.06%
+  fold 2/10  CN2 (tuned)     ...   5.00s  acc=96.53%
+  fold 3/10  CN2 (tuned)     ...   5.24s  acc=96.53%
+  fold 4/10  CN2 (tuned)     ...   5.29s  acc=95.95%
+  fold 5/10  CN2 (tuned)     ...   5.18s  acc=96.53%
+  fold 6/10  CN2 (tuned)     ...   4.97s  acc=94.22%
+  fold 7/10  CN2 (tuned)     ...   5.15s  acc=94.80%
+  fold 8/10  CN2 (tuned)     ...   5.40s  acc=95.95%
+  fold 9/10  CN2 (tuned)     ...   5.15s  acc=91.86%
+  fold 10/10  CN2 (tuned)     ...   5.35s  acc=94.19%
+# Option D: nested cross-validation (rule: TUNING_RULE.md)
+
+Failed fits: 0
+
+## Question 1: tuned vs fixed widths (per seed, Wilcoxon over 11 datasets)
+
+| seed | vs | median gain | mean gain | tuned better / same / worse | Wilcoxon p | Q1 passes |
+|--:|---|--:|--:|:-:|--:|:-:|
+| 0 | (w=5) (primary) | -0.39 pp | -0.93 pp | 2 / 2 / 7 | 0.250 | no |
+| 0 | (w=1) | +0.10 pp | +2.28 pp | 6 / 0 / 5 | 0.966 | – |
+| 0 | (w=20) | -0.48 pp | -1.46 pp | 1 / 3 / 7 | 0.055 | – |
+| 1 | (w=5) (primary) | +0.91 pp | +1.04 pp | 9 / 0 / 2 | 0.102 | no |
+| 1 | (w=1) | +1.04 pp | +3.03 pp | 8 / 0 / 3 | 0.024 | – |
+| 1 | (w=20) | +0.62 pp | +0.39 pp | 7 / 0 / 4 | 0.278 | – |
+| 2 | (w=5) (primary) | +0.00 pp | +0.29 pp | 5 / 1 / 5 | 1.000 | no |
+| 2 | (w=1) | +0.71 pp | +2.72 pp | 8 / 0 / 3 | 0.320 | – |
+| 2 | (w=20) | +0.00 pp | -0.55 pp | 4 / 2 / 5 | 0.496 | – |
+
+**Q1 verdict: NOT ESTABLISHED** (seeds passing: 0 of 3).
+
+## Question 2: tuned vs hindsight-best fixed width (oracle, mean of 3 seeds)
+
+| dataset | oracle width | oracle acc | tuned acc | tuned − oracle | w=5 − oracle |
+|---|---|--:|--:|--:|--:|
+| lymph | (w=20) | 83.9% | 80.5% | -3.41 pp | -1.84 pp |
+| heart-c | (w=5) | 81.1% | 78.0% | -3.17 pp | +0.00 pp |
+| breast-cancer | (w=20) | 73.1% | 71.0% | -2.10 pp | -1.75 pp |
+| glass | (w=20) | 71.8% | 70.8% | -1.10 pp | -0.92 pp |
+| vote | (w=1) | 94.9% | 93.9% | -0.92 pp | -0.00 pp |
+| diabetes | (w=10) | 75.4% | 75.0% | -0.39 pp | -0.57 pp |
+| monks-problems-2 | (w=20) | 96.1% | 95.8% | -0.22 pp | -6.10 pp |
+| car | (w=10) | 95.3% | 95.1% | -0.15 pp | -0.44 pp |
+| tic-tac-toe | (w=20) | 98.4% | 98.3% | -0.03 pp | -0.17 pp |
+| iris | (w=20) | 93.3% | 93.3% | +0.00 pp | -0.67 pp |
+| credit-approval | (w=1) | 85.0% | 85.2% | +0.24 pp | -0.24 pp |
+
+Within 1 pp of the oracle: tuned on **7 of 11** datasets (w=5 alone: 8 of 11; w=20 alone: 9 of 11).
+
+**Q2 verdict: NOT ESTABLISHED** (needs ≥ 9 of 11).
+
+## Which width did the inner CV choose? (count over 30 outer folds)
+
+| dataset | w=1 | w=5 | w=10 | w=20 |
+|---|--:|--:|--:|--:|
+| breast-cancer | 10 | 7 | 9 | 4 |
+| car | 0 | 4 | 7 | 19 |
+| credit-approval | 21 | 6 | 2 | 1 |
+| diabetes | 2 | 7 | 8 | 13 |
+| glass | 11 | 5 | 6 | 8 |
+| heart-c | 3 | 10 | 12 | 5 |
+| iris | 9 | 7 | 4 | 10 |
+| lymph | 2 | 3 | 15 | 10 |
+| monks-problems-2 | 0 | 0 | 1 | 29 |
+| tic-tac-toe | 0 | 0 | 12 | 18 |
+| vote | 14 | 7 | 4 | 5 |
+
+Fit time of tuned vs w=5: median 24.1×, range 21.1–28.6× (inner CV fits 4 widths × 5 folds + 1 refit).
+

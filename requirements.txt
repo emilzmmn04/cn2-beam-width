@@ -1,0 +1,9 @@
+# pyrulearn at the exact commit the results were produced with (not modified)
+pyrulearn[experiments] @ git+https://github.com/FAW-JKU/pyrulearn@873e4ed
+# versions used for the published results
+pandas==2.3.3        # must be <3: pandas 3.x + scikit-learn 1.9 breaks fetch_openml's ARFF parser (see README)
+scikit-learn==1.9.1
+scipy==1.18.1
+numpy==2.5.4
+matplotlib==3.11.2
+psutil==7.2.2
